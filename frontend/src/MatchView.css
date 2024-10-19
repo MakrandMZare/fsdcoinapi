@@ -1,0 +1,11 @@
+.buy {
+  color: green;
+}
+
+.sell {
+  color: red;
+}
+
+.match-view > div {
+  margin: 5px 0;
+}
